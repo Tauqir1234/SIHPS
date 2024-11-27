@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 27/11/2024
+## Register Number: 24013512
+## Name: TAUQIR AHMED S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,35 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Networking : Enable alumni to connect professionally.
 
+2. Career Support : Offer job listings and mentorship opportunities.
+3. Event Management : Organize and promote reunions, webinars, and networking events.
+
+4. Mobile Access & Security : Provide a mobile app for easy access and ensure data privacy.
+
+5. Launch : Start with a soft launch to gather feedback before opening to all alumni.
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-27 180233](https://github.com/user-attachments/assets/76440679-a742-42b7-bc1e-15f11b773b70)
 
 
 ## Use Cases
+![Screenshot 2024-11-27 175407](https://github.com/user-attachments/assets/10ee3bc1-ca88-4771-a849-328ef8be9806)
 
 
 ## Technology Stack
+Front-end: Responsive web and mobile design.
 
+Back-end: Secure, scalable servers and databases.
+
+Security: Data protection, authentication, and privacy compliance.
+
+Integrations: Social media and third-party payment gateways.
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
